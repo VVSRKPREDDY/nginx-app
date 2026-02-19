@@ -18,5 +18,5 @@ spec:
         - name: order
           image: vvspreddy/order-service:latest
           ports:
-            - conatinerPort: 3000
+            - containerPort: 3000
           imagePullPolicy: Always
